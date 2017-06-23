@@ -1,6 +1,6 @@
 
-Remote Desktop Cloud
---------------------
+Desktop Cloud
+--------------
 
 A webserver is used for the remote desktop access to vnc docker machines.
 
